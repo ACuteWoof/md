@@ -19,6 +19,7 @@ each other. This is the physical layer, the standards on this layer then define
 over what physical medium the hosts communicate and how bits would be
 represented over this physical medium during this communication. The standards
 we commonly use on this layer are defined by [IEEE 802](https://www.ieee802.org/).
+
 Although these standards are more complex, we might start understanding the
 physical layer by thinking about a very primal standard we made ad hoc. Let's
 say host X and Y want to communicate and agree on the following standard: both
